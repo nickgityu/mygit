@@ -1,0 +1,9 @@
+{
+     "SchemaVersion": "1.0",
+     "ProductVersionName": "0.0.2",
+     "ProductVersionDescription": "Updated with actual version",
+     "ProductType": "CLOUD_FORMATION_TEMPLATE",
+     "Properties": {
+         "TemplateFilePath": "/empty_cfn.yaml"
+     }
+}
