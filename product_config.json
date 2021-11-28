@@ -4,6 +4,6 @@
      "ProductVersionDescription": "Updated with actual version",
      "ProductType": "CLOUD_FORMATION_TEMPLATE",
      "Properties": {
-         "TemplateFilePath": "/template.yml"
+         "TemplateFilePath": "/templates/template.yml"
      }
 }
